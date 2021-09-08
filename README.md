@@ -1,0 +1,2 @@
+# MyJavaPersonalDevelopment
+我的Java个人开发程序，存储一些比较成熟的但整体上代码量不大的程序源码。
